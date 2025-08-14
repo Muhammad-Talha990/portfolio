@@ -2,7 +2,7 @@ export const projects=[
     {
         name:'Real Time Chat Application',
         src:'realtime_chat_app.jpg',
-        link:'https://github.com/Muhammad-Talha990/',
+        link:'https://github.com/Muhammad-Talha990/chat_application',
         color:"#000000",
         tech:'Flutter/Dart/Firebase',
         type:'Mobile App Development',
