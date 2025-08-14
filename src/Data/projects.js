@@ -1,7 +1,7 @@
 export const projects=[
     {
-        name:'Buyer Centric App',
-        src:'buyer_centric_app.jpeg',
+        name:'Real Time Chat Application',
+        src:'realtime_chat_app.jpg',
         link:'https://github.com/Muhammad-Talha990/',
         color:"#000000",
         tech:'Flutter/Dart/Firebase',
