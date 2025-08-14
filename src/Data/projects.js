@@ -4,8 +4,8 @@ export const projects=[
         src:'realtime_chat_app.jpg',
         link:'https://github.com/Muhammad-Talha990/chat_application',
         color:"#000000",
-        tech:'Flutter/Dart/Firebase',
-        type:'Mobile App Development',
+        tech:'React/node.js/MongoDB',
+        type:' MERN Stack Chat Application',
     },
     // {
     //     name:'E-Commerce Mobile App',
