@@ -1,0 +1,22 @@
+.mobileParallax{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.fromRight,.fromLeft{
+    position:relative;
+    flex: 1;
+    height: 100%;
+    border-radius: 15px;
+}
+.fromSide{
+    display: flex;
+    align-items: center;
+    height: 300px;
+    overflow: hidden;
+    gap: 15px;
+}
+.fromRight img,.fromLeft img{
+    object-fit: contain;
+}

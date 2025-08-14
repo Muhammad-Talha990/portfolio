@@ -1,0 +1,32 @@
+.projectGalleryMobile{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.projectImage{
+    width: 350px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.projectImage img{
+    height: auto;
+}
+.projectUp{
+    border-bottom: 1px solid #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-bottom: 20px;
+}
+.projectUp h1{
+    font-weight: 400;
+}
+.projectDown{
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
